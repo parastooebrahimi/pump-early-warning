@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Data is downloaded from Kaggle, not committed
+data/*.csv
+
+# Synthetic sample outputs
+reports/sample/
